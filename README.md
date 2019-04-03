@@ -2,7 +2,7 @@
 Some tools to dump and rebuild TEXT.DAT from pac.  
 Some codes I copy from number201724.
 ## ATTENTION !  
-You must follow the GNU lincene!  
+YOU MUST FOLLOW THE GNU LICENSE!  
 create by soratane.  
 2019/04/03  
 ## ---UPDATE---  
